@@ -13,16 +13,16 @@ PATHCONSOLE=//var//www//bin//console
 
 ### Clear cache
 ```shell
-./docker-symfony-help.sh api_todoKairos cache
+./docker-symfony-help.sh nameContainer cache
 ```
 
 ### Show the routes regitered
 ```shell
-./docker-symfony-help.sh api_todoKairos route
+./docker-symfony-help.sh nameContainer route
 ```
 
 ### List directories
 
 ```shell
-./docker-symfony-help.sh api_todoKairos ls [You diretory]
+./docker-symfony-help.sh nameContainer ls [You diretory]
 ```
